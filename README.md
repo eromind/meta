@@ -1,0 +1,2 @@
+# meta
+Amalgamation of components
